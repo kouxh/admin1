@@ -1,0 +1,5 @@
+{
+  "semi": false,//格式化时不加分号 
+  "singleQuote": true,//用单引号替换双引号
+  "trailingComma":none//对象后面默认添加逗号
+}
